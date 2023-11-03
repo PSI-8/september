@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.search-box input{
+    width: 500px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 15%;
+}
+.fa-microphone{
+    margin-left: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    
+}
+.fa-microphone:hover{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(212, 212, 212);
+}
